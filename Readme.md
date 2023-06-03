@@ -56,7 +56,7 @@
 
 2. Mobile Device
 
-![GeeksterContest4](https://github.com/Ameya-Shinde/Geekster-Contest/assets/93002372/e5df179a-c8e7-4f5a-a131-d278c4ff2544)
+![imageedit_4_4689923834](https://github.com/Ameya-Shinde/Geekster-Contest/assets/93002372/f599b897-1ea2-450e-a4f2-965fe82f01af)
 
 ## Contact
 * Github - https://github.com/Ameya-Shinde
