@@ -9,20 +9,21 @@
 * VS Code
 
 ## Installation
-1. Clone this repository using - git clone https://github.com/Ameya-Shinde/Geekster-Contest.git
+1. Clone the repository: Open your terminal or command prompt and enter the following command to clone the repository to your local machine: git clone https://github.com/Ameya-Shinde/Geekster-Contest.git
 2. Install VS Code.
-3. Open the cloned local repository folder in your VS Code.
-4. All the images are available in the "ref" folder.
+3. Launch VS Code on your computer. Then, go to File > Open and navigate to the location where you cloned the repository in the previous step. Select the folder and click "Open" to open it in VS Code.
+4. Within the repository folder, you should find a folder named "ref." This folder contains all the images related to the project.
+5.  Enjoy exploring the contents of the repository and working with VS Code!
 
 ## Usage
-1. User gets detailed information on the course.
-2. Curriculum is available for download via "Download the Curriculum" button.
-3. Users can login or sign-up using the "Login" button.
-4. (For Mobile Users) To get the best experience please use the "Desktop site" feature of your mobile browsers.
+1. Detailed Course Information: The website provides comprehensive information about the course, including a detailed overview and learning objectives. You will find all the necessary details to understand what the course entails and how it can benefit you.
+2. Curriculum Download: To access the complete curriculum, we offer a convenient "Download the Curriculum" button. By clicking on this button, users can easily download the curriculum in a format such as PDF or Word. This allows you to review the curriculum at your own pace, even offline, and get a deeper understanding of the topics covered.
+3. User Login and Sign-Up: If you are interested in enrolling in the course or accessing additional resources, we provide a user login feature. Simply click on the "Login" button to access the login page. Existing users can enter their credentials to log in, while new users have the option to sign up and create an account. By logging in or signing up, you can gain access to exclusive content, course materials, and updates tailored to your needs.
+4. Mobile User Experience: For optimal browsing on mobile devices, we recommend using the "Desktop site" feature available in most mobile browsers. This feature allows you to switch to the desktop version of the website, providing a more immersive and feature-rich experience.
 
 ## Features
-* Informative cards for simple understanding.
-* "fit-content" is used on cards box so that the cards are clearly readable at any resolution even when opened on mobile devices.
+* Informative Cards for Simple Understanding: We have designed the website to feature informative cards that present information in a clear and concise manner. The cards provide a user-friendly format for quick and simple understanding of the content.
+* "fit-content" for Readability on Any Resolution: To ensure optimal readability on various devices and screen resolutions, we have implemented the "fit-content" property on the cards box. This allows the cards to adjust their size dynamically based on the content they contain. As a result, the text and visuals on the cards remain easily readable, even when the website is accessed on mobile devices. By utilizing "fit-content," we prioritize a consistent and user-friendly experience for all users, regardless of their device or screen size.
 
 ## Design Flow
 1. Header
