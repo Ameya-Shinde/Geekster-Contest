@@ -21,7 +21,7 @@
 
 2. **Curriculum Download** : To access the complete curriculum, we offer a convenient "Download the Curriculum" button. By clicking on this button, users can easily download the curriculum in a format such as PDF or Word. This allows you to review the curriculum at your own pace, even offline, and get a deeper understanding of the topics covered.
 3. **User Login and Sign-Up** : If you are interested in enrolling in the course or accessing additional resources, we provide a user login feature. Simply click on the "Login" button to access the login page. Existing users can enter their credentials to log in, while new users have the option to sign up and create an account. By logging in or signing up, you can gain access to exclusive content, course materials, and updates tailored to your needs.
-4. ** Mobile User Experience** : For optimal browsing on mobile devices, we recommend using the "Desktop site" feature available in most mobile browsers. This feature allows you to switch to the desktop version of the website, providing a more immersive and feature-rich experience.
+4. **Mobile User Experience** : For optimal browsing on mobile devices, we recommend using the "Desktop site" feature available in most mobile browsers. This feature allows you to switch to the desktop version of the website, providing a more immersive and feature-rich experience.
 
 ## Features
 * **Informative Cards for Simple Understanding** : We have designed the website to feature informative cards that present information in a clear and concise manner. The cards provide a user-friendly format for quick and simple understanding of the content.
